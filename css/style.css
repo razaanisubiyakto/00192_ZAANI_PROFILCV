@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+  #header {
+    background-color: #72a0e6;
+    color: #ffffff;
+    text-align: center;
+    padding: 20x;
+    font-family: 'Lucida Sans', sans-serif;
+  }
+
+  .kartu
+  {
+    background-color: #fffcfc;
+    border: 1px solid #72a0e6;
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 20px;
+    font-family: 'Lucida Sans', sans-serif;
+  
+  }
